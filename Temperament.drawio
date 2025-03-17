@@ -65,12 +65,12 @@
           <mxGeometry x="290" y="640" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ywPE58ERe0Zjie2IHpUZ-20" value="Склонность к анализу" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="60" y="560" width="220" height="80" as="geometry" />
+          <mxGeometry x="50" y="610" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ywPE58ERe0Zjie2IHpUZ-21" value="Определяется через" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="420" y="570" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ywPE58ERe0Zjie2IHpUZ-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=3;entryX=0.748;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ywPE58ERe0Zjie2IHpUZ-20">
+        <mxCell id="ywPE58ERe0Zjie2IHpUZ-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=3;entryX=0.748;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ywPE58ERe0Zjie2IHpUZ-8" target="ywPE58ERe0Zjie2IHpUZ-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="500" as="sourcePoint" />
             <mxPoint x="320" y="610" as="targetPoint" />
