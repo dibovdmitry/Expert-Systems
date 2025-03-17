@@ -31,6 +31,15 @@
         <mxCell id="ywPE58ERe0Zjie2IHpUZ-11" value="Имеет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="414" y="400" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ywPE58ERe0Zjie2IHpUZ-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="475" y="495" as="sourcePoint" />
+            <mxPoint x="515" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ywPE58ERe0Zjie2IHpUZ-13" value="Имеет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="539.5" y="480" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
