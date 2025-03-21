@@ -46,7 +46,7 @@
             <mxPoint x="-140" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDm0BcwVH89668VTk4dq-3" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="uDm0BcwVH89668VTk4dq-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.543;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="ComMCRo7h0CohoYwmS32-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="260" as="sourcePoint" />
             <mxPoint x="-200" y="360" as="targetPoint" />
@@ -164,7 +164,7 @@
           <mxGeometry x="1070" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-1" value="Холерик" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="360" width="200" height="110" as="geometry" />
+          <mxGeometry x="-310" y="690" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-2" value="Человек общителен?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="200" height="110" as="geometry" />
