@@ -355,7 +355,7 @@
         <mxCell id="ComMCRo7h0CohoYwmS32-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-50" y="650" as="sourcePoint" />
-            <mxPoint x="-50" y="690" as="targetPoint" />
+            <mxPoint x="-50" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-54" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
@@ -399,8 +399,17 @@
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-64" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="960" as="sourcePoint" />
+            <mxPoint x="1760" y="920" as="sourcePoint" />
             <mxPoint x="1760" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-66" value="Сангвиник" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="810" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="910" as="sourcePoint" />
+            <mxPoint x="1760" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
