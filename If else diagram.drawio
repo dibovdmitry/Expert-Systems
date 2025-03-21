@@ -202,17 +202,17 @@
         <mxCell id="uDm0BcwVH89668VTk4dq-39" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="1070" y="120" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ComMCRo7h0CohoYwmS32-1" value="Человек быстро вспыхивает и остывает?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="ComMCRo7h0CohoYwmS32-1" value="Холерик" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-300" y="360" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ComMCRo7h0CohoYwmS32-2" value="Человек быстро вспыхивает и остывает?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="ComMCRo7h0CohoYwmS32-2" value="Человек общителен?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-3" value="Человек медленно принимает решение?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1290" y="210" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ComMCRo7h0CohoYwmS32-4" value="Человек общителен?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="990" y="210" width="170" height="60" as="geometry" />
+        <mxCell id="ComMCRo7h0CohoYwmS32-4" value="Человек проявляет оптимизм?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="990" y="210" width="170" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
