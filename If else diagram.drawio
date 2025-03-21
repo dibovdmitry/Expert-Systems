@@ -181,7 +181,7 @@
         <mxCell id="uDm0BcwVH89668VTk4dq-35" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1070" y="150" as="sourcePoint" />
-            <mxPoint x="1070" y="210" as="targetPoint" />
+            <mxPoint x="1070" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uDm0BcwVH89668VTk4dq-36" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
@@ -196,7 +196,7 @@
         <mxCell id="uDm0BcwVH89668VTk4dq-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="150" as="sourcePoint" />
-            <mxPoint x="1360" y="210" as="targetPoint" />
+            <mxPoint x="1360" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uDm0BcwVH89668VTk4dq-39" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
