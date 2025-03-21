@@ -214,6 +214,21 @@
             <mxPoint x="990" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="560" as="sourcePoint" />
+            <mxPoint x="630" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-20" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="570" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-21" value="Меланхолик" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="520" y="670" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-22" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
