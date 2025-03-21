@@ -172,7 +172,7 @@
         <mxCell id="ComMCRo7h0CohoYwmS32-3" value="Человек медленно принимает решение?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="990" y="190" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ComMCRo7h0CohoYwmS32-4" value="Человек проявляет радость?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="ComMCRo7h0CohoYwmS32-4" value="Человек проявляет радость на людях?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1380" y="210" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -343,7 +343,7 @@
         <mxCell id="ComMCRo7h0CohoYwmS32-49" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1400" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ComMCRo7h0CohoYwmS32-50" value="Человек испытывает неуверенность?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="ComMCRo7h0CohoYwmS32-50" value="Человек быстро адаптируется к новым условиям?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1355" y="530" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -413,7 +413,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ComMCRo7h0CohoYwmS32-71" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="450" width="60" height="30" as="geometry" />
+          <mxGeometry x="1760" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-72" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1464.5" y="650" as="sourcePoint" />
+            <mxPoint x="1465" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ComMCRo7h0CohoYwmS32-73" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1470" y="870" as="sourcePoint" />
+            <mxPoint x="50" y="879" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
